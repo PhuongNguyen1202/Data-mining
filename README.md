@@ -1,8 +1,8 @@
 # Data-mining
 Vietnamese text Classification.
 ### Môn học 
-- Công nghệ Dữ liệu lớn - IE212.M11
-- GV: Đỗ Trọng Hợp
+- Khai thác dữ liệu truyền thông xã hội - IE403.L21
+- GV: Nguyễn Văn Kiệt
 
 ### Nhóm sinh viên thực hiện
   |       **Họ và tên**      |       **MSSV**       |
